@@ -6,7 +6,7 @@ Support Vector Machine (SVM) is a powerful supervised machine learning algorithm
 
 The main objective of SVM is to find the optimal hyperplane that separates data points belonging to different classes with the maximum possible margin. By maximizing this margin, SVM improves generalization and reduces the risk of overfitting.
 
-In this project, SVM is implemented using both a NumPy-based approach and Scikit-Learn's built-in implementation. The Breast Cancer Wisconsin Dataset is used for binary classification
+In this project, SVM is implemented using both a NumPy-based approach and Scikit-Learn's built-in implementation. The Breast Cancer Wisconsin Dataset is used for binary classification.
 
 ---
 
